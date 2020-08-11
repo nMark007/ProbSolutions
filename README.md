@@ -1,2 +1,2 @@
 # ProbSolutions
-This is a repository to solve challenging problems that I came across 
+This is a repository to solve challenging problems that I come across 
